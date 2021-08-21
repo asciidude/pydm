@@ -1,5 +1,4 @@
 import requests
-import traceback
 import os
 
 gui = False

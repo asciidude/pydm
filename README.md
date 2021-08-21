@@ -60,3 +60,5 @@ $ py src/pydm.py --<cli/gui> --<dl-link> (CLI ONLY) --<show-progress> (CLI ONLY)
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - codic: codic has been making a window manager, oddly it inspired me to create a download manager
+
+<i>💡 Fun fact, you pronounce "pydm" like pie-dim</i>
