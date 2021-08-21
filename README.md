@@ -32,7 +32,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-pydm is a download manager, there are two variations, the CLI and GUI version, both of which are changeable through startup command. If you run the build (.exe) file, it will automatically start as GUI. See more in <a href="#getting-started">Getting Started</a>
+pydm is a download manager, there are two variations, the CLI and GUI version, both of which are changeable through startup command. If you run the build (.exe) file, it will automatically start as GUI. See more in [Getting Started](#getting_started)
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
