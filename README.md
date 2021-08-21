@@ -34,6 +34,8 @@
 
 pydm is a download manager, there are two variations, the CLI and GUI version, both of which are changeable through startup command. If you run the build (.exe) file, it will automatically start as GUI. See more in [Getting Started](#getting_started)
 
+<b>GUI is not avaliable at this time.</b>
+
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 ```bash
