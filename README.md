@@ -53,7 +53,7 @@ $ py src/pydm.py [-h] <gui> (bool) <link> (string) <name> (string)
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [Python](https://python.org/en/) - The programming language used
+- [Python v3.9.6](https://python.org/en/) - The programming language used
 - [Requests](https://pypi.org/project/requests/) - A PyPIP project for creating requests
 - [clint](https://pypi.org/project/clint/) - A PyPIP project with pre-built functions for CLIs
 - [argparse](https://pypi.org/project/argparse/) - A PyPIP project for creating CLIs
