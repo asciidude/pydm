@@ -28,7 +28,7 @@
 - [Built Using](#built_using)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
-- [License](./LICENSE.md)
+- [License](./LICENSE)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -41,13 +41,15 @@ pydm is a download manager, there are two variations, the CLI and GUI version, b
 $ py -m pip install -r requirements.txt
 
 # Run project (gui: true, default | show-progress: true, default)
-$ py pydm.py --<cli/gui> --<dl-link>(CLI ONLY) --<show-progress>(CLI ONLY)
+$ py src/pydm.py --<cli/gui> --<dl-link> (CLI ONLY) --<show-progress> (CLI ONLY)
+
+# You can run the projects by /builds/pydm-xxx.exe
 ```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Python](https://python.org/en/) - The programming language used
-- [Requests]() - A PyPIP project for creating requests
+- [Requests](https://pypi.org/project/requests/) - A PyPIP project for creating requests
 
 ## ✍️ Authors <a name = "authors"></a>
 
