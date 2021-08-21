@@ -42,8 +42,8 @@ pydm is a download manager, there are two variations, the CLI and GUI version, b
 # Install Requirements
 $ py -m pip install -r src/requirements.txt
 
-# Run project (gui: true, default | show-progress: true, default)
-$ py src/pydm.py --gui (bool) --dl-link (string) --dl-name (string)
+# Run project (arguments provided ARE positional)
+$ py src/pydm.py --<gui> (bool) --<link> (string) --<name> (string)
 
 # All other options other than cli/gui are CLI only
 # You can also run the projects by /builds/pydm-xxx.exe
