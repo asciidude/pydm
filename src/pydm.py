@@ -57,8 +57,7 @@ if args.gui[0] is False:
                     if chunk:
                         f.write(chunk)
                         f.flush()
-                    else:
-                        print('Download complete!')
+                print('Download complete!')
             except requests.exceptions.InvalidURL:
                 print('URL provided has been invalidated by the requests module')
 # GUI
