@@ -34,12 +34,10 @@
 
 pydm is a download manager, there are two variations, the CLI and GUI version, both of which are changeable through startup command. If you run the build (.exe) file, it will automatically start as GUI. See more in [Getting Started](#getting_started)
 
-<b>GUI is not avaliable at this time.</b>
-
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 ```bash
-# [param.] = Optional, <param.> = Required
+# <param.> = Required, (type) = Type of param.
 
 # Install Requirements
 $ py -m pip install -r src/requirements.txt
@@ -49,14 +47,16 @@ $ py src/pydm.py [-h] <gui> (bool) <link> (string) <name> (string)
 
 # All other options other than cli/gui are CLI only
 # You can also run the projects by /builds/pydm-xxx.exe
+# If you are running the GUI version, put "_" for the link and name arguments
 ```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Python v3.9.6](https://python.org/en/) - The programming language used
-- [Requests](https://pypi.org/project/requests/) - A PyPIP project for creating requests
-- [clint](https://pypi.org/project/clint/) - A PyPIP project with pre-built functions for CLIs
-- [argparse](https://pypi.org/project/argparse/) - A PyPIP project for creating CLIs
+- [Requests](https://pypi.org/project/requests/) - A library for creating requests
+- [clint](https://pypi.org/project/clint/) - A library with pre-built functions for CLIs
+- [argparse](https://pypi.org/project/argparse/) - A library for creating CLIs
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) - A library for creating GUIs
 
 ## ✍️ Authors <a name = "authors"></a>
 
