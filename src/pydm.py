@@ -40,7 +40,7 @@ if __name__ == '__main__':
         if not os.path.isdir(f'{os.getcwd()}/dl'):
             os.makedirs(f'{os.getcwd()}/dl')
 
-        utils.download.download()
+        utils.download.download(args.link[0], args.name[0])
     # GUI
     else:
         if dev_mode is True:

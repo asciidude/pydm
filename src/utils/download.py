@@ -22,6 +22,6 @@ def download(dl_lnk, name, *args, **kwargs):
                     if chunk:
                         f.write(chunk)
                         f.flush()
-                        print('Download complete!')
+                    print('Download complete!')
             except requests.exceptions.InvalidURL:
                 print('URL provided has been invalidated by the requests module')
