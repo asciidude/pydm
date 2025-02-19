@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center"> pydm is a download manager created in Python. This is <b>under active development</b>.
+<p align="center"> pydm is a download manager created in Python. This is <b>no longer under active development</b>.
     <br> 
 </p>
 
